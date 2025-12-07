@@ -49,8 +49,7 @@ If you want to run this project on your local machine:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Carlosmaths/energy-forecast-argentina.git](https://github.com/Carlosmaths/energy-forecast-argentina.git)
-    ```
+    git clone [https://github.com/Carlosmaths/energy-forecast-argentina.git]
 
 2.  **Install dependencies:**
     ```bash
